@@ -1,0 +1,29 @@
+# Xplore
+
+## PROJECT FOR GEEKHACKS 1.0 
+
+Xplore is a project that helps each and every student to find their passion and grow with all the resources they need.
+
+### Problem Statement
+
+Develop Effective Career Counselling and Guidance Programs in Schools to Enhance Student Career Choices. 
+
+### What we have in our project:
+
+- Intuitive UI/UX design ([View the Design](UI-UX))
+- A Website ([View the Code](web))
+- Machine learning models ([View the Code](ml_model))
+- A mobile application ([View the Code](mobile-app/front-end/hackathon_mobile_app/lib))
+- An AI-integrated chatbot ([Try out the chatbot](https://cdn.botpress.cloud/webchat/v2.1/shareable.html?botId=ccabaa17-8d1b-4591-bcd7-051129e46a99))
+
+### Working:
+
+Our website, requires the student to take a test that, with the help of our machine learning models, finds the exact profession that is most suitable for the student. Our mobile application provide the students with all the free resources available on the web, which includes free courses, ebooks and articles.
+
+### Our core team members:
+
+1. [**Tapoban Ray**](https://www.linkedin.com/in/tapobanray/) - Development of Mobile Application and AI-integrated Chatbot.
+2. [**Soumalya Dey**](https://www.linkedin.com/in/soumalya-dey-82949b270/) - UI/UX design, Idea development, Research Conducting.
+3. [**Subh Aush Singh**](https://www.linkedin.com/in/subh-aush-singh-2198512ab/) - Website Development (Front-end and Back-end).
+4. [**Abdullah Ahmed**](https://www.linkedin.com/in/abdullah-ahmed-8b1351320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) - Development of Machine Learning models and front end.
+
